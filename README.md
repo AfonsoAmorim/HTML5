@@ -1,2 +1,2 @@
 # HTML5
-Aprendendo a utilizar ferramenta
+Aprendendo a utilizar a ferramenta
